@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kushagrathisside
+- 👋 Hi, I’m [@kushagrathisside](https://github.com/kushagrathisside)
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning DeepLearning.AI
 - 💞️ I’m looking to collaborate on Projects for GSoC Preperation
