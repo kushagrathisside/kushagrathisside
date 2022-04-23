@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kushagra Srivastava</h1>
 <h3 align="center">A Deep Learning enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagrathisside&label=Profile%20views&color=0e75b6&style=flat" alt="kushagrathisside" /> </p>
-
+[//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagrathisside&label=Profile%20views&color=0e75b6&style=flat" alt="kushagrathisside" /> </p>)
+<br>
 - 🌱 I’m currently learning **Deep Learning (DeepLearning.AI specialization)**
 
 - 💬 Topics up for discussion **Machine Learning, Neural Nets**
 
 - 📫 How to reach me **kushagrathisside@gmail.com**
 
-- ⚡ Fun fact **Knowing things add to your mental power. Afterall, everything is data and data is 💖**
+- ⚡ Fun fact **Being attentive adds a lot to your mental power. Afterall, everything is data and data is 💖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
