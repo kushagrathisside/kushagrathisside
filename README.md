@@ -3,6 +3,8 @@
 
 [//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagrathisside&label=Profile%20views&color=0e75b6&style=flat" alt="kushagrathisside" /> </p>)
 <br>
+
+
 - 🌱 I’m currently learning **Deep Learning (DeepLearning.AI specialization)**, Tensorflow and exploring other non ML domains
 
 - ⚒ Working on AI Interviewer
@@ -14,6 +16,8 @@
 - ⚡ Fun fact **Being attentive adds a lot to your mental power. Afterall, everything is data and data is 💖**
 
 - 👨‍💻 Managing @MYCIN-AI-Club repos.
+<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
