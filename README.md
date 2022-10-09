@@ -18,12 +18,6 @@
 - 👨‍💻 Managing @MYCIN-AI-Club repos.
 <br>
 
-<div align="center">
-  <a href="https://kushagrathisside.github.io/kushagrathisside/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
