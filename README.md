@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning (DeepLearning.AI specialization)**, Tensorflow and exploring other non ML domains
 
-- ⚒ Working on AI Interviewer
+- ⚒ Working on AI Interviewer...
 
 - 💬 Topics up for discussion **Machine Learning, Neural Nets**
 
