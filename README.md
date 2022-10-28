@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Being attentive adds a lot to your mental power. Afterall, everything is data and data is 💖**
 
-- 👨‍💻 Managing @MYCIN-AI-Club repos.
+- 👨‍💻 Managing @MYCIN-AI-Club repos..
 <br>
 
 
