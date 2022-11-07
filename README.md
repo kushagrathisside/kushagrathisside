@@ -4,6 +4,9 @@
 [//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagrathisside&label=Profile%20views&color=0e75b6&style=flat" alt="kushagrathisside" /> </p>)
 <br>
 
+<center>
+<img src="https://github.com/kushagrathisside/kushagrathisside/blob/main/resources/ezgif.com-gif-maker.gif">
+</center>
 
 - 🌱 I’m currently learning **Deep Learning (DeepLearning.AI specialization)**, Tensorflow and exploring other non ML domains
 
