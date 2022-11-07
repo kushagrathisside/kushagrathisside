@@ -22,6 +22,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Diving deep through Exploratory Data Analysis](https://medium.com/@kushagrathisside/diving-deep-through-exploratory-data-analysis-d7f333e8dbac?source=rss-69d935b749c------2)
 - [Preparing datasets for Machine Learning Models](https://medium.com/@kushagrathisside/preparing-datasets-for-machine-learning-e1ccdbabdb0e?source=rss-69d935b749c------2)
 - [Unwrapping the MACHINE LEARNING Journey](https://medium.com/@kushagrathisside/unwrapping-the-machine-learning-journey-581655d8399d?source=rss-69d935b749c------2)
 - [Peeping into Data Science and Machine Learning](https://medium.com/@kushagrathisside/peeping-into-data-science-and-machine-learning-b9465b7fc6cf?source=rss-69d935b749c------2)
