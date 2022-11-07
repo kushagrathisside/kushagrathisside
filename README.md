@@ -5,7 +5,7 @@
 <br>
 
 <center>
-<img src="https://github.com/kushagrathisside/kushagrathisside/blob/main/resources/ezgif.com-gif-maker.gif">
+<!-- <img src="https://github.com/kushagrathisside/kushagrathisside/blob/main/resources/ezgif.com-gif-maker.gif"> -->
 </center>
 
 - 🌱 I’m currently learning **Deep Learning (DeepLearning.AI specialization)**, Tensorflow and exploring other non ML domains
