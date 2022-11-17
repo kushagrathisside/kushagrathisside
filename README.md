@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting familiar to statistics](https://medium.com/@kushagrathisside/getting-familiar-to-statistics-285e4b13240e?source=rss-69d935b749c------2)
 - [Validating your hypothesis in EDA](https://medium.com/@kushagrathisside/validating-your-hypothesis-in-eda-2c63c458a4af?source=rss-69d935b749c------2)
 - [Visualizing with Seaborn](https://medium.com/@kushagrathisside/visualizing-with-seaborn-ae3902f140d4?source=rss-69d935b749c------2)
 - [Visualizing your data using graphs](https://medium.com/@kushagrathisside/visualizing-your-data-using-graphs-b49e15784788?source=rss-69d935b749c------2)
-- [Diving deep through Exploratory Data Analysis](https://medium.com/@kushagrathisside/diving-deep-through-exploratory-data-analysis-d7f333e8dbac?source=rss-69d935b749c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
