@@ -8,7 +8,7 @@
 <!-- <img src="https://github.com/kushagrathisside/kushagrathisside/blob/main/resources/ezgif.com-gif-maker.gif"> -->
 </center>
 
-- 🌱 I’m currently learning **Deep Learning (DeepLearning.AI specialization)**, Tensorflow and exploring other non ML domains
+- 🌱 I’m currently attending Google ML Bootcamp India, CoHort-3
 
 - ⚒ Working on AI Interviewer...
 
