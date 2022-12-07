@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the K Nearest Neighbours](https://medium.com/@kushagrathisside/understanding-the-k-nearest-neighbours-82ed71b59c18?source=rss-69d935b749c------2)
 - [Types of Statistical Tests](https://medium.com/@kushagrathisside/types-of-statistical-tests-d295d5c5e5ae?source=rss-69d935b749c------2)
 - [Types of Data Distribution](https://medium.com/@kushagrathisside/types-of-data-distribution-e106e8270cf8?source=rss-69d935b749c------2)
 - [Probability for Machine Learning](https://medium.com/@kushagrathisside/probability-for-machine-learning-fe1d8a2cdc2?source=rss-69d935b749c------2)
 - [Getting familiar to statistics — II](https://medium.com/@kushagrathisside/getting-familiar-to-statistics-ii-d75e9499c65b?source=rss-69d935b749c------2)
-- [Getting familiar to statistics](https://medium.com/@kushagrathisside/getting-familiar-to-statistics-285e4b13240e?source=rss-69d935b749c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
