@@ -5,7 +5,7 @@
 <br>
 
 <img src="https://github.com/kushagrathisside/kushagrathisside/blob/main/resources/ezgif.com-gif-maker.gif" height=200 align=right>
-- 😎 Google 'kushagrathisside'!!!
+- 😎 Google '<b>kushagrathisside</b>'!!!
 - 🌱 I’m currently attending Google ML Bootcamp India (CoHort-3)<br>
 - 🎓 Explore ML with Crowdsource Facilitator (Batch 3)<br>
 - ⚒ Working on AI Interviewer and Skillset Analyzers<br>
