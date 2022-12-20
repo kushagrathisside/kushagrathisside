@@ -5,21 +5,16 @@
 <br>
 
 <center>
-<!-- <img src="https://github.com/kushagrathisside/kushagrathisside/blob/main/resources/ezgif.com-gif-maker.gif"> -->
+<img src="https://github.com/kushagrathisside/kushagrathisside/blob/main/resources/ezgif.com-gif-maker.gif" height=200 align=right>
 </center>
-- 🌱 I’m currently attending Google ML Bootcamp India, CoHort-3
-
-- ⚒ Working on AI Interviewer...
-
-- 💬 Topics up for discussion **Machine Learning, Neural Nets**
-
-- 📫 How to reach me **kushagrathisside@gmail.com**
-
-- ⚡ Fun fact **Being attentive adds a lot to your mental power. Afterall, everything is data and data is 💖**
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@kushagrathisside)
-
-- 👨‍💻 Managing @MYCIN-AI-Club repos..
+- 🌱 I’m currently attending Google ML Bootcamp India (CoHort-3)<br>
+- 😎 Explore ML with Crowdsource Facilitator (Batch 3)<br>
+- ⚒ Working on AI Interviewer and Skillset Analyzers<br>
+- 👨‍💻 Managing @MYCIN-AI-Club repos...<br>
+- 💬 Topics up for discussion <b>Anonymization in Data Science</b><br>
+- 📫 How to reach me <b>kushagrathisside@gmail.com</b><br>
+- ⚡ Fun fact <b>Random isn't random...</b><br>
+- 📝 I regularly write articles on <a href="https://medium.com/@kushagrathisside)">Medium</a>, do follow for data science and machine learning blogs.<br>
 <br>
 
 ### Blogs posts
