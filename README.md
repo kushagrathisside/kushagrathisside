@@ -4,11 +4,10 @@
 [//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagrathisside&label=Profile%20views&color=0e75b6&style=flat" alt="kushagrathisside" /> </p>)
 <br>
 
-<center>
 <img src="https://github.com/kushagrathisside/kushagrathisside/blob/main/resources/ezgif.com-gif-maker.gif" height=200 align=right>
-</center>
+- 😎 Google 'kushagrathisside'!!!
 - 🌱 I’m currently attending Google ML Bootcamp India (CoHort-3)<br>
-- 😎 Explore ML with Crowdsource Facilitator (Batch 3)<br>
+- 🎓 Explore ML with Crowdsource Facilitator (Batch 3)<br>
 - ⚒ Working on AI Interviewer and Skillset Analyzers<br>
 - 👨‍💻 Managing @MYCIN-AI-Club repos...<br>
 - 💬 Topics up for discussion <b>Anonymization in Data Science</b><br>
