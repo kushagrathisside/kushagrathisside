@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kushagra Srivastava</h1>
-<h3 align="center">Google Cloud Certified Professional Machine Learning Engineer from India</h3>
+<h3 align="center"> Upcoming DSSGx Germany'23 Fellow</h3>
 
 [//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagrathisside&label=Profile%20views&color=0e75b6&style=flat" alt="kushagrathisside" /> </p>)
 <br>
@@ -10,7 +10,7 @@
 - 🌱 I’m currently attending Google ML Bootcamp India (CoHort-3)<br>
 - 🎓 Explore ML with Crowdsource Facilitator (Batch 3)<br>
 - ⚒ Working on AI Interviewer and Skillset Analyzers<br>
-- 👨‍💻 Managing @MYCIN-AI-Club repos...<br>
+- 👨‍💻 Google Cloud Certified Professional Machine Learning Engineer <br>
 - 💬 Topics up for discussion <b>Anonymization in Data Science</b><br>
 - 📫 How to reach me <b>kushagrathisside@gmail.com</b><br>
 - ⚡ Fun fact <b>Random isn't random...</b><br>
