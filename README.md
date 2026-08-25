@@ -14,7 +14,7 @@
 - 💬 Ask me about **Machine Learning, Deep Learning, Robotics and Transformers**
 - 📫 How to reach me **kushagrathisside@gmail.com**
 - 📝 I am planning to regularly write articles on **[Substack](https://substack.com/@kushagrathisside)**
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1nkd-AZUk7ue5VnBr0i02ZqZ_DZRK7bvw/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/drive/folders/1XGSRBRSqOpDeo0E9nWqG7OxYqPf1yHpV?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
