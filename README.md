@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagrathisside&label=Profile%20views&color=0e75b6&style=flat" alt="kushagrathisside" /> </p>
 <img src="https://github.com/kushagrathisside/kushagrathisside/blob/main/resources/ezgif.com-gif-maker.gif" height="200" align="right">
 
-- 🔭 I'm currently working on **RealTime Video Orchestrator** and have released new features for the same. Please have a look!
-- 🌱 I'm currently learning **GenAI and Reinforcement Learning For Physical Agents**
+- 🔭 I'm currently working on **Bridle - Local AI Inference Application** and have released new features for the same. Please have a look!
+- 🌱 I'm currently learning **AI Inference and Reinforcement Learning For Physical Agents**
 - 👯 I'm looking to collaborate on **Research Utility Tools**
 - 🤝 I'm looking for help with **building better UI platforms for the tools I build.**
 - 💬 Ask me about **Machine Learning, Deep Learning, Robotics and Transformers**
